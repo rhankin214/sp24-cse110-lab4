@@ -26,3 +26,5 @@
 14. A) true, B) false, C) true, D) false, E) false, F) True
 
 15. '==' will ignore type differences, '===' will not
+
+17. We'll return a modified array that has twice the values of the old array. In each pass of the for loop, we pass array[i] into callback which we've decided is "doSomething." doSomething just multiplies the input by two and returns it. So each pass of the for loop just multiplies array[i] by two and sticks it in newArr which is returned at the end.
