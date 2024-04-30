@@ -21,3 +21,8 @@
 11. It'll print the same [50, 100, 150] as before. Pushing to a const array works fine, its just assignment that we can't do.
 
 12. A) student.name B) student["Grad Year"], C) student.greeting(), D) student["Favorite Teacher"].name, E) student.courseLoad[0]
+
+13. A) '32', B) 1, C) 3, D) '3null', E) 4, F) 0, G) '3undefined', H) NaN
+14. A) true, B) false, C) true, D) false, E) false, F) True
+
+15. '==' will ignore type differences, '===' will not
